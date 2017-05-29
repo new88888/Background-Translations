@@ -402,7 +402,7 @@ With this one time in-app purchase you help me keep the app alive. Thanks!</sour
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
-        <target>🙈不好意思</target>
+        <target>🙈不好意思！</target>
         <note>alert error title</note>
       </trans-unit>
     </body>
