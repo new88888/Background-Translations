@@ -210,6 +210,7 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="No results">
           <source>No results</source>
+          <target>没有结果</target>
           <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
