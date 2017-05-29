@@ -103,6 +103,11 @@
         <target>授权相册权限</target>
         <note>button title</note>
       </trans-unit>
+      <trans-unit id="Acknowledgements">
+        <source>Acknowledgements</source>
+        <target>特别鸣谢</target>
+        <note>Settings - section title</note>
+      </trans-unit>
       <trans-unit id="App Store">
           <!--    Image 4b      -->
         <source>App Store</source>
